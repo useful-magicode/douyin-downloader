@@ -28,7 +28,6 @@
 有任何问题可以进群交流。
 **二维码会不定期更新，如果过期请先star该repo，过几天再来看下。**
 
-<img src="img/fuye.png" width = "200" />
 
 # 使用截图
 
@@ -303,13 +302,6 @@ python DouYinCommand.py -C True -l https://v.douyin.com/SnXMoh2/ -p /path/to/dow
 # 鸣谢
 
 本项目部分思路来自[TikTokDownload](https://github.com/Johnserf-Seed/TikTokDownload)
-
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=jiji262/douyin-downloader&type=Date)](https://star-history.com/#jiji262/douyin-downloader&Date)
-
-
 
 
 # License
